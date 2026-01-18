@@ -6,7 +6,7 @@ Electronic & Telecommunication Engineering Undergraduate General Sir John Kotela
 👨‍💻 About Me
 I am a 3rd-year Engineering student passionate about the synergy between Hardware and Intelligence. My work ranges from low-level firmware for autonomous robotics to high-level deep learning architectures for medical and telecommunication signals.
 
-🤖 Current Focus: Optimizing the Floodfill Algorithm for the IIT Micromaze Competition 2025.
+🤖 Current Focus: Optimizing the Floodfill Algorithm for the IIT Micromaze Competition 2026.
 
 🧠 Research Interests: Hybrid Deep Learning models (CNN-BiLSTM) and Physics-Informed Neural Networks.
 
