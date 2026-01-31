@@ -39,17 +39,53 @@ My work ranges from **low-level firmware for autonomous robotics** to **high-lev
 
 ## 🛠️ Skills & Technologies
 
+## 🛠️ Skills & Technologies
+
 ### Programming & Frameworks
-Python | PySpark | PyTorch | TensorFlow | Keras | FastAPI | scikit-learn | OpenCV | ONNX | NestJS | C | C++ | JavaScript | MATLAB  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-EE4C2C?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX-0078D4?style=for-the-badge&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
 
 ### ML & AI Tools
-Hugging Face | OpenAI | MLflow | LangChain | LLaMA | Evidently AI | Deepchecks | Haystack | Pinecone  
+<p align="left">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-17BECF?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-FF6D00?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLaMA-00A3E0?style=for-the-badge&logo=llama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Evidently_AI-FF5733?style=for-the-badge&logo=evidently&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deepchecks-1C1C1C?style=for-the-badge&logo=deepchecks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Haystack-0057B8?style=for-the-badge&logo=haystack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-6A5ACD?style=for-the-badge&logo=pinecone&logoColor=white" />
+</p>
 
-### MLOps & DevOps
-Docker | FastAPI | Kubernetes | Redis | Celery  
 
 ### Engineering & Design
-EasyEDA | KiCad | Simulink | Wireshark | SolidWorks | LTspice | Proteus | Canva | Photoshop  
+<p align="left">
+  <img src="https://img.shields.io/badge/EasyEDA-F04F23?style=for-the-badge&logo=easyeda&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-FF6600?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Simulink-00BFFF?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1876B5?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-CC1F35?style=for-the-badge&logo=solidworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LTspice-0F0F0F?style=for-the-badge&logo=ltspice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proteus-0050B3?style=for-the-badge&logo=proteus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+</p>
+
 
 ---
 
