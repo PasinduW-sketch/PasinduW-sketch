@@ -39,8 +39,6 @@ My work ranges from **low-level firmware for autonomous robotics** to **high-lev
 
 ## 🛠️ Skills & Technologies
 
-## 🛠️ Skills & Technologies
-
 ### Programming & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
