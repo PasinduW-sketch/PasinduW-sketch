@@ -27,6 +27,32 @@ My work ranges from **low-level firmware for autonomous robotics** to **high-lev
 
 ---
 
+## 🏆 Portfolio & Interests
+**Portfolio:** [PasinduW-sketch GitHub](https://github.com/PasinduW-sketch)  
+**Interests:**  
+- Machine Learning & AI  
+- Embedded Systems  
+- Internet of Things (IoT)  
+- Competitive Programming: Senum2001  
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Programming & Frameworks
+Python | PySpark | PyTorch | TensorFlow | Keras | FastAPI | scikit-learn | OpenCV | ONNX | NestJS | C | C++ | JavaScript | MATLAB  
+
+### ML & AI Tools
+Hugging Face | OpenAI | MLflow | LangChain | LLaMA | Evidently AI | Deepchecks | Haystack | Pinecone  
+
+### MLOps & DevOps
+Docker | FastAPI | Kubernetes | Redis | Celery  
+
+### Engineering & Design
+EasyEDA | KiCad | Simulink | Wireshark | SolidWorks | LTspice | Proteus | Canva | Photoshop  
+
+---
+
 ## 🤖 Current Focus
 - Optimizing the **Floodfill Algorithm** for the **IIT Micromaze Competition 2026**  
 - Developing **ESP32-based autonomous robots** for real-time path planning
@@ -42,34 +68,6 @@ My work ranges from **low-level firmware for autonomous robotics** to **high-lev
 
 ## ⚡ Community
 Active member of **IET On Campus KDU**, organizing technical workshops and fundraisers.
-
----
-
-## 🛠️ Core Skills & Tools
-
-### 🧠 Machine Learning & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
-### 🤖 Embedded Systems & Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidWorks-CC1F35?style=for-the-badge&logo=solidworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" />
-</p>
-
-### 🌐 Web & Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
 
 ---
 
@@ -102,4 +100,9 @@ Active member of **IET On Campus KDU**, organizing technical workshops and fundr
 ## 📫 Let's Connect!
 🌍 Based in Colombo, Sri Lanka  
 💬 Ask me about **IoT, Embedded Systems, Signal Processing, or Machine Learning**  
-✉️ Email Me: pasinduwanniarachchi01@gmail.com
+✉️ Email Me: pasinduwanniarachchi01@gmail.com  
+
+---
+
+### 💡 Thanks for visiting!
+Feel free to **explore, fork, or star** any of my projects.
