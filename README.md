@@ -21,29 +21,31 @@ Electronic & Telecommunication Engineering Undergraduate | General Sir John Kote
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics Dashboard
 
-### Profile Overview
+### 📈 Profile Overview & Metrics
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PasinduW-sketch&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PasinduW-sketch.PasinduW-sketch" alt="Visitors Count" />
+  <img src="https://komarev.com/ghpvc/?username=PasinduW-sketch&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PasinduW-sketch.PasinduW-sketch&style=for-the-badge" alt="Visitors" />
+  <img src="https://img.shields.io/github/followers/PasinduW-sketch?label=Followers&style=for-the-badge&color=green" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/PasinduW-sketch?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total Stars" />
 </p>
 
-### GitHub Stats
+### 📊 GitHub Stats & Top Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PasinduW-sketch&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduW-sketch&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PasinduW-sketch&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&line_height=20" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduW-sketch&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss,shell" width="48%" />
 </p>
 
-### GitHub Streak & Trophies
+### ⚡ GitHub Streak & Trophies
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduW-sketch&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=PasinduW-sketch&theme=radical&no-frame=true&row=2&column=4" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduW-sketch&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PasinduW-sketch&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="48%" />
 </p>
 
-### Top Skills
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduW-sketch&hide=html,css&theme=radical&layout=compact&langs_count=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduW-sketch&theme=radical&area=true&hide_border=true&custom_title=Contribution%20Graph" width="90%" />
 </p>
 
 ---
@@ -51,16 +53,6 @@ Electronic & Telecommunication Engineering Undergraduate | General Sir John Kote
 ## 👨‍💻 About Me
 I am a **3rd-year Engineering undergraduate** passionate about the synergy between **hardware and intelligence**.  
 My work ranges from **low-level firmware for autonomous robotics** to **high-level deep learning architectures** for medical and telecommunication signals.
-
----
-
-## 🏆 Portfolio & Interests
-**Portfolio:** [PasinduW-sketch GitHub](https://github.com/PasinduW-sketch)  
-**Interests:**  
-- Machine Learning & AI  
-- Embedded Systems  
-- Internet of Things (IoT)  
-- Competitive Programming: Senum2001  
 
 ---
 
@@ -97,19 +89,6 @@ My work ranges from **low-level firmware for autonomous robotics** to **high-lev
   <img src="https://img.shields.io/badge/Pinecone-6A5ACD?style=for-the-badge&logo=pinecone&logoColor=white" />
 </p>
 
-### Engineering & Design
-<p align="left">
-  <img src="https://img.shields.io/badge/EasyEDA-F04F23?style=for-the-badge&logo=easyeda&logoColor=white" />
-  <img src="https://img.shields.io/badge/KiCad-FF6600?style=for-the-badge&logo=kicad&logoColor=white" />
-  <img src="https://img.shields.io/badge/Simulink-00BFFF?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1876B5?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidWorks-CC1F35?style=for-the-badge&logo=solidworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/LTspice-0F0F0F?style=for-the-badge&logo=ltspice&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proteus-0050B3?style=for-the-badge&logo=proteus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-</p>
-
 ---
 
 ## 🤖 Current Focus
@@ -118,33 +97,17 @@ My work ranges from **low-level firmware for autonomous robotics** to **high-lev
 
 ---
 
-## 🧠 Research Interests
-- Hybrid Deep Learning Models (**CNN-BiLSTM**)  
-- Physics-Informed Neural Networks (**PINNs**)  
-- Signal Processing for Medical & Telecom Applications  
-
----
-
-## ⚡ Community
-Active member of **IET On Campus KDU**, organizing technical workshops and fundraisers.
-
----
-
 ## 🌟 Featured Projects
 
 ### 🤖 Robotics & Embedded Systems
-- **[RobotNexus] IIT Micromaze Robot (2025)** – Autonomous maze-solver using ESP32, VL53L0X ToF sensors, and N20 encoders. Implemented **robust Floodfill Algorithm** for real-time mapping.  
-- **Smart Medi-box** – IoT medicine storage system with Node-RED & ESP32 integration for patient adherence.  
-- **Adaptive Traffic Control** – ML-driven traffic management system to reduce subway congestion.
+- **[RobotNexus] IIT Micromaze Robot (2025)** – Autonomous maze-solver using ESP32, VL53L0X ToF sensors, and N20 encoders.  
+- **Smart Medi-box** – IoT medicine storage system with Node-RED & ESP32 integration.  
+- **Adaptive Traffic Control** – ML-driven traffic management system.
 
 ### 🧠 Machine Learning & Signal Processing
 - **ECG-Net** – CNN-BiLSTM deep learning model for **Arrhythmia Classification**.  
-- **Network Traffic Intelligence** – BiLSTM model for **cellular usage forecasting** & automated anomaly detection.  
-- **Chest X-Ray Classification** – PyTorch CNN for automated medical imaging screening.
-
-### 🌐 Full-Stack & IoT
-- **SmartGasML Dashboard** – Real-time monitoring platform built with **React + Flask**, connected to IoT sensors.  
-- **E-Commerce & Management Systems** – Multiple enterprise-grade PHP applications including **School Management Systems** and Tech Stores.
+- **Network Traffic Intelligence** – BiLSTM model for cellular usage forecasting.  
+- **Chest X-Ray Classification** – PyTorch CNN for medical imaging screening.
 
 ---
 
@@ -154,23 +117,27 @@ Active member of **IET On Campus KDU**, organizing technical workshops and fundr
 <!-- This section will be automatically updated by GitHub Actions -->
 <!-- BLOG-POST-LIST:END -->
 
-*Note: Blog feed will be automatically updated when you set up GitHub Actions*
+*Blog feed will be automatically updated when you set up GitHub Actions*
 
 ---
 
 ## 📊 Activity Metrics
 
-### Twitter Activity
+### 🐦 Twitter Activity
 <p align="center">
   <a href="https://twitter.com/pasinduharsha01">
-    <img src="https://img.shields.io/twitter/follow/pasinduharsha01?label=Twitter&style=social" />
+    <img src="https://img.shields.io/twitter/follow/pasinduharsha01?label=Twitter%20Followers&style=for-the-badge&logo=twitter&color=1DA1F2" />
   </a>
 </p>
 
-### Weekly Development Breakdown
+### 💻 Weekly Development Breakdown
 ```text
-Python        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   75%
-C++           🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩            50%
-JavaScript    🟩🟩🟩🟩🟩🟩🟩🟩               40%
-Embedded C    🟩🟩🟩🟩🟩🟩🟩                 35%
-MATLAB        🟩🟩🟩🟩🟩                     25%
+📊 Weekly Activity Breakdown
+┌─────────────────────────────────────────────────────────────┐
+│ Python        ████████████████░░░░░░░░░░░░░░░░░░  75%      │
+│ C++           ████████████░░░░░░░░░░░░░░░░░░░░░░░  50%      │
+│ JavaScript    ██████████░░░░░░░░░░░░░░░░░░░░░░░░░  40%      │
+│ Embedded C    ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  35%      │
+│ PyTorch       ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  30%      │
+│ TensorFlow    ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%      │
+└─────────────────────────────────────────────────────────────┘
