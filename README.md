@@ -174,20 +174,3 @@ C++           🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩            50%
 JavaScript    🟩🟩🟩🟩🟩🟩🟩🟩               40%
 Embedded C    🟩🟩🟩🟩🟩🟩🟩                 35%
 MATLAB        🟩🟩🟩🟩🟩                     25%
-
-
-🌐 Connect With Me
-💻 Development & Coding
-<p align="left"> <a href="https://github.com/pasinduw-sketch" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://stackoverflow.com/users/32296020/pasindu-harsha" target="_blank"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> </a> <a href="https://codesandbox.io/u/pasindu_harsha" target="_blank"> <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" /> </a> <a href="https://codepen.io/pasindu_harsha" target="_blank"> <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> </a> </p>
-👥 Professional Networks
-<p align="left"> <a href="https://www.linkedin.com/in/pasinduharsha" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://x.com/pasinduharsha01" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /> </a> </p>
-📝 Tech Blogs & Writing
-<p align="left"> <a href="https://hashnode.com/@pasinduharsha" target="_blank"> <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /> </a> <a href="https://vibe.forem.com/pasindu_harsha" target="_blank"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /> </a> </p>
-🏆 Competitive Programming
-<p align="left"> <a href="https://leetcode.com/u/pasinduw-sketch/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="https://www.hackerrank.com/profile/pasinduharsha" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /> </a> <a href="https://www.codechef.com/users/pasindu_harsha" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /> </a> <a href="https://hackerearth.com/@pasindu_harsha/" target="_blank"> <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" /> </a> </p>
-📊 Data Science & ML
-<p align="left"> <a href="https://www.kaggle.com/pasinduharsha01" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> </a> </p>
-🎨 Design & Creative
-<p align="left"> <a href="https://dribbble.com/pasindu-wanniarachchi" target="_blank"> <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /> </a> </p>
-📺 Video Content
-<p align="left"> <a href="https://www.youtube.com/@pasinduwanniarachchi" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> </p>
