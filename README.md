@@ -1,32 +1,18 @@
 <div align="center">
-  <!-- Interactive Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=220&section=header&text=Pasindu%20Harsha&subtitle=Electronic%20%26%20Telecommunication%20Engineering%20Undergraduate&fontSize=32&fontColor=ffffff&subFontSize=16" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=220&section=header&text=Pasindu%20Harsha&subtitle=Electronic%20%26%20Telecommunication%20Engineering%20Undergraduate&fontSize=32&fontColor=ffffff&subFontSize=16" width="100%" alt="Header" />
 
-  <!-- Navigation Bar Matrix -->
-  <p align="center">
-    <a href="#-profile-overview">Overview</a> •
-    <a href="#-what-i-do">Core Focus</a> •
-    <a href="#-technical-arsenal">Skills Matrix</a> •
-    <a href="#-innovation-showcases">Projects</a> •
-    <a href="#-milestone-chronicles">Milestones</a> •
-    <a href="#-git-ecosystem-analytics">Analytics</a>
-  </p>
-
-  <!-- Connective Action Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/your-linkedin-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:your-email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://github.com/PasinduW-sketch"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
-  
-  🌐 **"Engineering the intersection of hardware intelligence, edge computing, and data-driven automation."**
 </div>
 
 ---
 
 ### 🚀 Profile Overview
 
-I am a driven **Electronic and Telecommunication Engineering Undergraduate** at General Sir John Kotelawala Defence University (KDU), Sri Lanka (Intake 41). My technical trajectory focuses on transforming physical parameters into digital intelligence. I build high-fidelity IoT node architectures, optimize resource-constrained embedded firmware, and program deep learning vision/signal processing pipelines.
+I am an **Electronic and Telecommunication Engineering Undergraduate** at General Sir John Kotelawala Defence University (KDU), Sri Lanka (Intake 41). My technical trajectory focuses on transforming physical parameters into digital intelligence. I build high-fidelity IoT node architectures, optimize resource-constrained embedded firmware, and program deep learning vision/signal processing pipelines.
 
 * 🧠 **Current Research:** Deep neural networks targeted for automated clinical diagnostics and signal data stream optimizations.
 * 🔌 **Hardware Methodology:** Non-blocking real-time operating architectures, hardware interrupts, and clean multi-sensor integration layouts.
@@ -120,24 +106,21 @@ I am a driven **Electronic and Telecommunication Engineering Undergraduate** at 
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=PasinduW-sketch&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Pasindu's GitHub Stats" height="165px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=PasinduW-sketch&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Stats" height="165px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduW-sketch&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" alt="Top Languages Map" height="165px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduW-sketch&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" alt="Languages" height="165px" />
       </td>
     </tr>
   </table>
 
   <br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduW-sketch&theme=tokyonight&hide_border=false" alt="GitHub Streak Tracking" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduW-sketch&theme=tokyonight&hide_border=false" alt="Streak" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <!-- Dynamic Real-Time Footfall Tracking -->
-  <img src="https://profile-counter.glitch.me/PasinduW-sketch/count.svg" alt="Profile Counter View Widget" />
-  <br />
-  <sub>Layout Architecture engineered with custom MD layouts. All Rights Reserved © 2026.</sub>
+  <img src="https://profile-counter.glitch.me/PasinduW-sketch/count.svg" alt="Counter" />
 </div>
