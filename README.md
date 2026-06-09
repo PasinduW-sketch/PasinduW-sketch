@@ -1,6 +1,9 @@
+```markdown
 <div align="center">
+  <!-- Dynamic Premium Header Banner -->
   <img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=220&section=header&text=Pasindu%20Harsha&subtitle=Electronic%20%26%20Telecommunication%20Engineering%20Undergraduate&fontSize=32&fontColor=ffffff&subFontSize=16" width="100%" alt="Header" />
 
+  <!-- Action Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/your-linkedin-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:your-email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -122,5 +125,8 @@ I am an **Electronic and Telecommunication Engineering Undergraduate** at Genera
 ---
 
 <div align="center">
+  <!-- Dynamic Real-Time Footfall Tracking -->
   <img src="https://profile-counter.glitch.me/PasinduW-sketch/count.svg" alt="Counter" />
 </div>
+
+```
