@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <!-- Dynamic Premium Header Banner -->
   <img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=220&section=header&text=Pasindu%20Harsha&subtitle=Electronic%20%26%20Telecommunication%20Engineering%20Undergraduate&fontSize=32&fontColor=ffffff&subFontSize=16" width="100%" alt="Header" />
@@ -128,5 +127,3 @@ I am an **Electronic and Telecommunication Engineering Undergraduate** at Genera
   <!-- Dynamic Real-Time Footfall Tracking -->
   <img src="https://profile-counter.glitch.me/PasinduW-sketch/count.svg" alt="Counter" />
 </div>
-
-```
